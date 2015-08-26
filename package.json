@@ -1,0 +1,25 @@
+{
+  "name": "api-ai",
+  "version": "0.0.7",
+  "description": "api.ai intelligent speech api",
+  "author": {
+    "name": "Adrian Kremer",
+    "email": "a.kr3mer@googlemail.com"
+  },
+  "keywords": [
+    "api ai",
+    "recognition",
+    "text to speech"
+  ],
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=2.1.0"
+  },
+  "dependencies": {
+    "underscore": "",
+    "url": ""
+  },
+  "license": "MIT",
+  "main": "./lib/api-ai.js",
+  "_id": "api-ai@0.0.5"
+}
